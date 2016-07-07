@@ -134,6 +134,12 @@ public extension UIColor {
     }
 }
 
+public extension Int {
+    var sayHello: String {
+        return "Hello \(self)"
+    }
+}
+
 
 
 

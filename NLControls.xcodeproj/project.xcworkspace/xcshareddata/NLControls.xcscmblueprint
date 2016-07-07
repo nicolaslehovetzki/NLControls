@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A4FCE9EC43037E861C7337F6B4A9C85139F139ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "10AA1A46E6ED8D1640990F2FA88DE0FB2C9499AD" : 0,
+    "A4FCE9EC43037E861C7337F6B4A9C85139F139ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5D50C6CD-F401-4AC3-B3E5-F9916EDAFA04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "10AA1A46E6ED8D1640990F2FA88DE0FB2C9499AD" : "..",
+    "A4FCE9EC43037E861C7337F6B4A9C85139F139ED" : "NLControls\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NLControls",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NLControls.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.3wa.fr:profs\/formation-mobile.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10AA1A46E6ED8D1640990F2FA88DE0FB2C9499AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nicoleo2014\/NLControls.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4FCE9EC43037E861C7337F6B4A9C85139F139ED"
+    }
+  ]
+}
